@@ -1,0 +1,5 @@
+# ignore the high volume data
+
+
+# virtual environments
+.venv
